@@ -7,7 +7,7 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C++-000000?for-the-badge&logo=c%2B%2B&logoColor=%2300599C)
-![python](https://w7.pngwing.com/pngs/17/991/png-transparent-computer-icons-python-github-miscellaneous-angle-text.png)
+![python](https://skillicons.dev/icons?i=python)
 
 **⭐Operating systems I can work with :**
 
