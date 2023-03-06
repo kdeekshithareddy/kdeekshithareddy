@@ -7,7 +7,7 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C++-000000?for-the-badge&logo=c%2B%2B&logoColor=%2300599C)
-![python]
+![python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fpython&psig=AOvVaw1Dwl7pwTZmjThqQ6MlZ1qD&ust=1678199245359000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJj958LBx_0CFQAAAAAdAAAAABAD)
 
 **⭐Operating systems I can work with :**
 
